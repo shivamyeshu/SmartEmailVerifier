@@ -1,0 +1,29 @@
+{
+  "name": "SmartEmailVerifier",
+  "version": "1.0.0",
+  "description": "A production-ready alternative to NeverBounce & ZeroBounce - completely free and open source",
+  "keywords": [
+    "emailverifier",
+    "shivamyeshu",
+    "nodejs",
+    "cli",
+    "tool",
+    "Recruiter",
+    "Email",
+    "Validation"
+  ],
+  "license": "ISC",
+  "author": "Shivam",
+  "type": "module",
+  "main": "finalfast.js",
+  "scripts": {
+    "start": "node finalfast.js"
+  },
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "dns": "^0.2.2",
+    "p-limit": "^7.2.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {}
+}
