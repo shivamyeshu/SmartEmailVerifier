@@ -1,6 +1,7 @@
 node_modules/
 data/
 *.xlsx
+*.csv
 .DS_Store
 npm-debug.log
 .env

@@ -311,7 +311,7 @@ LinkedIn: [shivam kumar](https://www.linkedin.com/in/shivam-yeshu)
   
   ## Ready for production?
 
-   [View Documentation](https://github.com/shivamyeshu/SmartEmailVerifier/Readme.md)  
+   [View Documentation](https://github.com/shivamyeshu/SmartEmailVerifier/README.md)  
    
 
  ### Built for scale. Engineered for privacy. Priced for everyone.
